@@ -1,3 +1,5 @@
-# ccpluspluslearn
+# c
+# oc
+# C++
 
-Lean ccplusplus
+Lean note
